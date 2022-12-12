@@ -44,4 +44,3 @@ def to_upper_copy(first_file, second_file):
 #files it references in the drop-down in the top left.
 to_upper_copy("anOutputFile.txt", "anInputFile.txt")
 print("Done running! Check anOutputFile.txt for the result.")
-
